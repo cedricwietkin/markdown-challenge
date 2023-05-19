@@ -1,7 +1,7 @@
 # markdown-challenge
 # Cédric Wietkin
 
-* Ce qui ne te tue pas, te rend plus fort!*
+*Ce qui ne te tue pas, te rend plus fort!*
 
 <img src="tof.JPG">
 
@@ -19,8 +19,9 @@
 
 ## Short Story
 
-* Lors de mes dernières vacances, alors que nous avions le all-in, le personnel allai cherher du coca au magasin d'en face lorsque nous avions soif *
+*Lors de mes dernières vacances, alors que nous avions le all-in, le personnel allai cherher du coca au magasin d'en face lorsque nous avions soif*
 ## Le Socialisateur
+
 Le terme « socialisateur » désigne un agent, une action ou un contexte qui favorise le développement des compétences sociales et relationnelles d'un individu. Cela peut être une personne, un groupe, un lieu ou une activité permettant l'interaction et la communication entre les membres d'une société.
 Les socialisateurs contribuent à l'épanouissement personnel et collectif en aidant chacun à s'adapter aux normes et valeurs du groupe, ainsi qu'à se sentir intégré et accepté parmi ses pairs. Ils jouent un rôle clé dans le processus de socialisation tout au long de la vie.
 
@@ -29,5 +30,5 @@ Les socialisateurs contribuent à l'épanouissement personnel et collectif en ai
 
 
 
-<< [Camille]() || Cédric Wietkin || [Clara](https://github.com/clamaha) >>
+<< [Camille]() || Cédric Wietkin || [**Clara**](https://github.com/clamaha) >>
 
