@@ -1,6 +1,8 @@
 # markdown-challenge
 # Cédric Wietkin
+
 *Ce qui ne te tue pas, te rend plus fort!*
+
 <img src="tof.JPG">
 --------------------------------------
 | My BirthDAy | Favorite color  | Favorite food    |
@@ -12,7 +14,7 @@
 <ul>
 <li>Basket-ball</li>
 <li>Bricolage</li>
-<li>Randonnée<ul><li>Vtt</li><li>Pédestre</li><li>Bivouac</li></li>
+<li>Randonnée<ul><li>Vtt</li><li>Pédestre</li><li>Bivouac</li></ul></li>
 </ul>
 ---------------------------------
 
