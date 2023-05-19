@@ -12,6 +12,7 @@
 <li>Basket-ball</li>
 <li>Bricolage</li>
 <li>Randonnée<ul><li>Vtt</li><li>Pédestre</li><li>Bivouac</li></li>
+</ul>
 
 
 ### Le Socialisateur
