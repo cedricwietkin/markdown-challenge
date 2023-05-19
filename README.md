@@ -8,7 +8,7 @@
 | My BirthDAy | Favorite color  | Favorite food    |
 |-------------|-----------------|------------------|
 |29/09/1988   | Blue Navy       |Sushi- Asian Food |
-|Pinneapple on pizza | <ul><li> [ ] Yes</li>&#9745; NO!NO!</ul> |
+|Pinneapple on pizza | <ul> &#9744;  Yes &#9745; NO!NO!</ul> |
 
 ## Hobbies
 <ul>
